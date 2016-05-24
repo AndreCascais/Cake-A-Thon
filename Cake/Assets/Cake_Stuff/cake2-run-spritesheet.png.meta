@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 9c6afe1f4532c6b4dbe0eb302b1babe4
+timeCreated: 1463856434
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cake2-run-spritesheet_0
+    21300002: cake_run_1
+    21300004: cake_run_2
+    21300006: cake_run_3
+    21300008: cake_run_4
+    21300010: cake2-run-spritesheet_5
+    21300012: cake2-run-spritesheet_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 17
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cake2-run-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 43
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cake_run_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -23, y: 18}
+        - {x: -23, y: -13}
+        - {x: -13, y: -20}
+        - {x: 16, y: -20}
+        - {x: 23, y: -14}
+        - {x: 23, y: 5}
+        - {x: 6, y: 20}
+    - name: cake_run_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 11
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -23, y: 18}
+        - {x: -23, y: -17}
+        - {x: -22, y: -21}
+        - {x: 18, y: -21}
+        - {x: 23, y: -13}
+        - {x: 23, y: 5}
+        - {x: 6, y: 21}
+    - name: cake_run_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -23, y: 18}
+        - {x: -23, y: -13}
+        - {x: -13, y: -20}
+        - {x: 16, y: -20}
+        - {x: 23, y: -14}
+        - {x: 23, y: 5}
+        - {x: 6, y: 20}
+    - name: cake_run_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -23, y: 18}
+        - {x: -23, y: -17}
+        - {x: -22, y: -21}
+        - {x: 18, y: -21}
+        - {x: 23, y: -13}
+        - {x: 23, y: 5}
+        - {x: 6, y: 21}
+    - name: cake2-run-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 24
+        width: 76
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cake2-run-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

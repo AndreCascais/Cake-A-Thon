@@ -57,10 +57,10 @@ namespace UnityStandardAssets._2D
             if (!crouch && m_Anim.GetBool("Crouch"))
             {
                 // If the character has a ceiling preventing them from standing up, keep them crouching
-                if (Physics2D.OverlapCircle(m_CeilingCheck.position, k_CeilingRadius, m_WhatIsGround))
-                {
-                    crouch = true;
-                }
+                //if (Physics2D.OverlapCircle(m_CeilingCheck.position, k_CeilingRadius, m_WhatIsGround))
+                //{
+                //    crouch = true;
+                //}
             }
 
             // Set whether or not the character is crouching in the animator
