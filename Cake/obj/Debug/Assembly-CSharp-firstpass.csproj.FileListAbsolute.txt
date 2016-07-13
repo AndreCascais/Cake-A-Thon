@@ -16,6 +16,5 @@ C:\Users\a_cas_000\Documents\GitHub\Cake-A-Thon\Cake\Temp\bin\Debug\UnityEngine.
 C:\Users\a_cas_000\Documents\GitHub\Cake-A-Thon\Cake\Temp\bin\Debug\UnityEditor.xml
 C:\Users\a_cas_000\Documents\GitHub\Cake-A-Thon\Cake\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\a_cas_000\Documents\GitHub\Cake-A-Thon\Cake\Temp\bin\Debug\UnityEngine.Networking.xml
-C:\Users\a_cas_000\Documents\GitHub\Cake-A-Thon\Cake\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\a_cas_000\Documents\GitHub\Cake-A-Thon\Cake\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\a_cas_000\Documents\GitHub\Cake-A-Thon\Cake\obj\Debug\Assembly-CSharp-firstpass.pdb
